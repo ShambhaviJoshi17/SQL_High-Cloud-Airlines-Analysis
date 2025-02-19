@@ -1,5 +1,9 @@
 # SQL_High-Cloud-Airlines-Analysis
 
+High Clouds Case study:
+![image](https://github.com/user-attachments/assets/4fc63768-1578-45c4-af47-e598b6244c80)
+
+
 create database projecthighcloude;
 use projecthighcloude;
 show tables;
